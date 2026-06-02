@@ -57,7 +57,7 @@ years on a monthly basis.
 
 The Hidden Problem
 Over 40% of all orders were either cancelled (20.8%) or returned (20.6%). 
-For every 10 orders placed, 4 never resulted in a successful delivery — 
+For every 10 orders placed, 4 never resulted in a successful delivery, 
 a critical issue that directly impacts revenue and customer trust.
 
 The Coupon Dependency
@@ -69,11 +69,10 @@ Instagram is the top acquisition channel (259 customers), followed by
 Email (250). The business has a healthy spread across all channels.
 
 The Product Story
-Printer had the most orders (182) but Chair generated the highest revenue 
-— meaning Chair commands a significantly higher price point despite lower 
+Printer had the most orders (182) but Chair generated the highest revenue, meaning Chair commands a significantly higher price point despite lower 
 sales volume.
 
-The Conclusion
+
 This business has strong revenue potential but is being held back by high 
 cancellation rates and coupon dependency. Fixing these two issues alone 
 could dramatically improve profitability.
